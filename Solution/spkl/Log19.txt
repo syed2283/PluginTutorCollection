@@ -1,0 +1,48 @@
+2:28:26 PM	Processing Component: Entities
+2:28:26 PM	 - Account
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\Formulas/account-opendeals.xaml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\Formulas/account-openrevenue.xaml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\FormXml\main\{ff49442f-8c60-4877-bdae-8fe51e6f4636}.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\FormXml\main\{b053a39a-041a-4356-acef-ddf00182762b}.xml
+2:28:26 PM	Writing: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\RibbonDiff.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\Entity.xml
+2:28:26 PM	 - Contact
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Contact\FormXml\main\{894cc46a-b0cb-4ab0-8bf6-200544e46a2d}.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Contact\FormXml\main\{e06af4d1-2812-45c7-a9c2-9fb73fee7bec}.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Contact\RibbonDiff.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Contact\Entity.xml
+2:28:26 PM	 - msdyn_actual
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_actual\RibbonDiff.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_actual\Entity.xml
+2:28:26 PM	 - msdyn_customerasset
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_customerasset\RibbonDiff.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_customerasset\Entity.xml
+2:28:26 PM	 - msdyn_iotdevice
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_iotdevice\RibbonDiff.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_iotdevice\Entity.xml
+2:28:26 PM	 - msdyn_liveconversation
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_liveconversation\RibbonDiff.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_liveconversation\Entity.xml
+2:28:26 PM	 - msdyn_ocliveworkitem
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_ocliveworkitem\RibbonDiff.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_ocliveworkitem\Entity.xml
+2:28:26 PM	 - new_contract
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\FormXml\card\{c6e05e0d-2a73-412a-be9b-ce14241ab0fa}.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\FormXml\main\{7508a1c6-4d46-4534-a7de-e994e361fcac}.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\FormXml\quick\{1c5135d8-edd5-4dc4-a25d-778a87643ff9}.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{ca978b42-af28-4993-bab0-75e514f1e882}.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{4be43b35-f904-4c8d-a007-9639807543be}.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{10fb10b8-8b85-423f-bb6a-96dc4d12a2e5}.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{a18e6229-0492-4a79-b426-0ce2af724df3}.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{670d8c53-ed36-ec11-8c64-000d3af2b8ab}.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{e8f64e54-1ae2-471e-b70f-77da1fe05921}.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{fd9d1ffb-d2db-4f1c-88b6-b96126a2d987}.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\RibbonDiff.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\Entity.xml
+2:28:26 PM	Processing Component: EntityRelationships
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\SystemUser.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\SLA.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\Account.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\Contact.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\msdyn_FunctionalLocation.xml

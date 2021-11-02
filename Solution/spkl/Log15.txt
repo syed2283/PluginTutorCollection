@@ -1,0 +1,7 @@
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\InteractionCentricDashboards\{70ad8b15-e3f3-4d7d-9e4b-16cb4e51b484}.xml
+2:28:26 PM	Processing Component: WebResources
+2:28:26 PM	 - new_/js/accountScripts.js
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_\js\accountScripts.js.data.xml
+2:28:26 PM	Skipping 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_\js\accountScripts.js' as it matches a mapping directive
+2:28:26 PM	 - new_MyHtmlResource
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResource.data.xml

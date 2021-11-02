@@ -81,3 +81,170 @@ Unmanaged Extract complete.
 2021-11-01 16:41:55.755 - Verbose	Read-only files will be over-written or deleted.
 2021-11-01 16:41:55.755 - Verbose	Solution may not repack due to missing mapped file for: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResource
 2021-11-01 16:41:55.757 - Verbose	CrmSvcUtil Runtime = 00:00:00.5412670
+2021-11-02 14:28:25.868 - Info	Reading mapping directives...
+2021-11-02 14:28:25.871 - Verbose	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+2021-11-02 14:28:25.878 - Warning	Map folder 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Plugins\bin\' does not exist.
+2021-11-02 14:28:25.879 - Verbose	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+2021-11-02 14:28:25.879 - Verbose	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+2021-11-02 14:28:26.035 - Warning	Read-only files will be over-written or deleted.
+2021-11-02 14:28:26.062 - Info	
+Extracting C:\Users\syed.amanullah\AppData\Local\Temp\tmp7228.zip to C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package
+
+2021-11-02 14:28:26.178 - Info	Skipping localization
+2021-11-02 14:28:26.189 - Info	Processing Component: Entities
+2021-11-02 14:28:26.197 - Info	 - Account
+2021-11-02 14:28:26.214 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\Formulas/account-opendeals.xaml
+2021-11-02 14:28:26.218 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\Formulas/account-openrevenue.xaml
+2021-11-02 14:28:26.239 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\FormXml\main\{ff49442f-8c60-4877-bdae-8fe51e6f4636}.xml
+2021-11-02 14:28:26.242 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\FormXml\main\{b053a39a-041a-4356-acef-ddf00182762b}.xml
+2021-11-02 14:28:26.246 - Verbose	Writing: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+2021-11-02 14:28:26.251 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\RibbonDiff.xml
+2021-11-02 14:28:26.253 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\Entity.xml
+2021-11-02 14:28:26.253 - Info	 - Contact
+2021-11-02 14:28:26.257 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Contact\FormXml\main\{894cc46a-b0cb-4ab0-8bf6-200544e46a2d}.xml
+2021-11-02 14:28:26.259 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Contact\FormXml\main\{e06af4d1-2812-45c7-a9c2-9fb73fee7bec}.xml
+2021-11-02 14:28:26.260 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Contact\RibbonDiff.xml
+2021-11-02 14:28:26.262 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Contact\Entity.xml
+2021-11-02 14:28:26.262 - Info	 - msdyn_actual
+2021-11-02 14:28:26.264 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_actual\RibbonDiff.xml
+2021-11-02 14:28:26.267 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_actual\Entity.xml
+2021-11-02 14:28:26.267 - Info	 - msdyn_customerasset
+2021-11-02 14:28:26.275 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_customerasset\RibbonDiff.xml
+2021-11-02 14:28:26.277 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_customerasset\Entity.xml
+2021-11-02 14:28:26.278 - Info	 - msdyn_iotdevice
+2021-11-02 14:28:26.279 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_iotdevice\RibbonDiff.xml
+2021-11-02 14:28:26.281 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_iotdevice\Entity.xml
+2021-11-02 14:28:26.282 - Info	 - msdyn_liveconversation
+2021-11-02 14:28:26.289 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_liveconversation\RibbonDiff.xml
+2021-11-02 14:28:26.297 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_liveconversation\Entity.xml
+2021-11-02 14:28:26.301 - Info	 - msdyn_ocliveworkitem
+2021-11-02 14:28:26.305 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_ocliveworkitem\RibbonDiff.xml
+2021-11-02 14:28:26.308 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_ocliveworkitem\Entity.xml
+2021-11-02 14:28:26.308 - Info	 - new_contract
+2021-11-02 14:28:26.316 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\FormXml\card\{c6e05e0d-2a73-412a-be9b-ce14241ab0fa}.xml
+2021-11-02 14:28:26.324 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\FormXml\main\{7508a1c6-4d46-4534-a7de-e994e361fcac}.xml
+2021-11-02 14:28:26.327 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\FormXml\quick\{1c5135d8-edd5-4dc4-a25d-778a87643ff9}.xml
+2021-11-02 14:28:26.330 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{ca978b42-af28-4993-bab0-75e514f1e882}.xml
+2021-11-02 14:28:26.333 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{4be43b35-f904-4c8d-a007-9639807543be}.xml
+2021-11-02 14:28:26.337 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{10fb10b8-8b85-423f-bb6a-96dc4d12a2e5}.xml
+2021-11-02 14:28:26.340 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{a18e6229-0492-4a79-b426-0ce2af724df3}.xml
+2021-11-02 14:28:26.344 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{670d8c53-ed36-ec11-8c64-000d3af2b8ab}.xml
+2021-11-02 14:28:26.348 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{e8f64e54-1ae2-471e-b70f-77da1fe05921}.xml
+2021-11-02 14:28:26.352 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{fd9d1ffb-d2db-4f1c-88b6-b96126a2d987}.xml
+2021-11-02 14:28:26.357 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\RibbonDiff.xml
+2021-11-02 14:28:26.361 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\Entity.xml
+2021-11-02 14:28:26.362 - Info	Processing Component: EntityRelationships
+2021-11-02 14:28:26.374 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\SystemUser.xml
+2021-11-02 14:28:26.376 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\SLA.xml
+2021-11-02 14:28:26.379 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\Account.xml
+2021-11-02 14:28:26.381 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\Contact.xml
+2021-11-02 14:28:26.382 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\msdyn_FunctionalLocation.xml
+2021-11-02 14:28:26.386 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\Organization.xml
+2021-11-02 14:28:26.388 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships.xml
+2021-11-02 14:28:26.388 - Info	Processing Component: InteractionCentricDashboards
+2021-11-02 14:28:26.394 - Info	 - {15915835-b87c-49ec-9ffc-bfac3ac44ef1}
+2021-11-02 14:28:26.403 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\InteractionCentricDashboards\{15915835-b87c-49ec-9ffc-bfac3ac44ef1}.xml
+2021-11-02 14:28:26.405 - Info	 - {70ad8b15-e3f3-4d7d-9e4b-16cb4e51b484}
+2021-11-02 14:28:26.411 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\InteractionCentricDashboards\{70ad8b15-e3f3-4d7d-9e4b-16cb4e51b484}.xml
+2021-11-02 14:28:26.412 - Info	Processing Component: WebResources
+2021-11-02 14:28:26.416 - Info	 - new_/js/accountScripts.js
+2021-11-02 14:28:26.420 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_\js\accountScripts.js.data.xml
+2021-11-02 14:28:26.429 - Info	Skipping 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_\js\accountScripts.js' as it matches a mapping directive
+2021-11-02 14:28:26.429 - Info	 - new_MyHtmlResource
+2021-11-02 14:28:26.431 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResource.data.xml
+2021-11-02 14:28:26.435 - Warning	Solution may not repack due to missing mapped file for: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResource
+2021-11-02 14:28:26.436 - Info	Skipping 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResource' as it matches a mapping directive
+2021-11-02 14:28:26.441 - Verbose	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Customizations.xml
+2021-11-02 14:28:26.446 - Verbose	Writing: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Solution.xml
+2021-11-02 14:28:26.457 - Info	
+Unmanaged Extract complete.
+
+2021-11-02 14:28:26.515 - Warning	3 warnings encountered
+2021-11-02 14:28:26.516 - Verbose	Map folder 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Plugins\bin\' does not exist.
+2021-11-02 14:28:26.516 - Verbose	Read-only files will be over-written or deleted.
+2021-11-02 14:28:26.523 - Verbose	Solution may not repack due to missing mapped file for: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResource
+2021-11-02 14:28:26.528 - Verbose	CrmSvcUtil Runtime = 00:00:01.3352980
+2021-11-02 15:58:51.265 - Info	Reading mapping directives...
+2021-11-02 15:58:51.267 - Verbose	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+2021-11-02 15:58:51.274 - Warning	Map folder 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\PluginAssemblies\' does not exist.
+2021-11-02 15:58:51.276 - Warning	Map folder 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Plugins\bin\' does not exist.
+2021-11-02 15:58:51.276 - Verbose	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+2021-11-02 15:58:51.277 - Verbose	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+2021-11-02 15:58:51.458 - Info	
+Packing C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package to C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\solution_1_0_0_0.zip
+
+2021-11-02 15:58:51.500 - Info	Processing Component: Entities
+2021-11-02 15:58:51.508 - Info	 - Account
+2021-11-02 15:58:51.509 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\Entity.xml
+2021-11-02 15:58:51.522 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+2021-11-02 15:58:51.529 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\FormXml\main\{b053a39a-041a-4356-acef-ddf00182762b}.xml
+2021-11-02 15:58:51.531 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\FormXml\main\{ff49442f-8c60-4877-bdae-8fe51e6f4636}.xml
+2021-11-02 15:58:51.533 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\RibbonDiff.xml
+2021-11-02 15:58:51.544 - Info	 - Contact
+2021-11-02 15:58:51.545 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Contact\Entity.xml
+2021-11-02 15:58:51.547 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Contact\FormXml\main\{894cc46a-b0cb-4ab0-8bf6-200544e46a2d}.xml
+2021-11-02 15:58:51.549 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Contact\FormXml\main\{e06af4d1-2812-45c7-a9c2-9fb73fee7bec}.xml
+2021-11-02 15:58:51.551 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Contact\RibbonDiff.xml
+2021-11-02 15:58:51.553 - Info	 - msdyn_actual
+2021-11-02 15:58:51.553 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_actual\Entity.xml
+2021-11-02 15:58:51.556 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_actual\RibbonDiff.xml
+2021-11-02 15:58:51.557 - Info	 - msdyn_customerasset
+2021-11-02 15:58:51.558 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_customerasset\Entity.xml
+2021-11-02 15:58:51.559 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_customerasset\RibbonDiff.xml
+2021-11-02 15:58:51.561 - Info	 - msdyn_iotdevice
+2021-11-02 15:58:51.561 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_iotdevice\Entity.xml
+2021-11-02 15:58:51.563 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_iotdevice\RibbonDiff.xml
+2021-11-02 15:58:51.564 - Info	 - msdyn_liveconversation
+2021-11-02 15:58:51.564 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_liveconversation\Entity.xml
+2021-11-02 15:58:51.566 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_liveconversation\RibbonDiff.xml
+2021-11-02 15:58:51.568 - Info	 - msdyn_ocliveworkitem
+2021-11-02 15:58:51.569 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_ocliveworkitem\Entity.xml
+2021-11-02 15:58:51.571 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_ocliveworkitem\RibbonDiff.xml
+2021-11-02 15:58:51.572 - Info	 - new_contract
+2021-11-02 15:58:51.572 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\Entity.xml
+2021-11-02 15:58:51.577 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\FormXml\card\{c6e05e0d-2a73-412a-be9b-ce14241ab0fa}.xml
+2021-11-02 15:58:51.579 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\FormXml\main\{7508a1c6-4d46-4534-a7de-e994e361fcac}.xml
+2021-11-02 15:58:51.582 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\FormXml\quick\{1c5135d8-edd5-4dc4-a25d-778a87643ff9}.xml
+2021-11-02 15:58:51.586 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{10fb10b8-8b85-423f-bb6a-96dc4d12a2e5}.xml
+2021-11-02 15:58:51.588 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{4be43b35-f904-4c8d-a007-9639807543be}.xml
+2021-11-02 15:58:51.589 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{670d8c53-ed36-ec11-8c64-000d3af2b8ab}.xml
+2021-11-02 15:58:51.591 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{a18e6229-0492-4a79-b426-0ce2af724df3}.xml
+2021-11-02 15:58:51.592 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{ca978b42-af28-4993-bab0-75e514f1e882}.xml
+2021-11-02 15:58:51.593 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{e8f64e54-1ae2-471e-b70f-77da1fe05921}.xml
+2021-11-02 15:58:51.595 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{fd9d1ffb-d2db-4f1c-88b6-b96126a2d987}.xml
+2021-11-02 15:58:51.596 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\RibbonDiff.xml
+2021-11-02 15:58:51.606 - Info	Processing Component: Roles
+2021-11-02 15:58:51.615 - Info	Processing Component: Workflows
+2021-11-02 15:58:51.615 - Info	Processing Component: FieldSecurityProfiles
+2021-11-02 15:58:51.616 - Info	Processing Component: Templates
+2021-11-02 15:58:51.619 - Info	Processing Component: EntityMaps
+2021-11-02 15:58:51.619 - Info	Processing Component: EntityRelationships
+2021-11-02 15:58:51.624 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships.xml
+2021-11-02 15:58:51.630 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\Account.xml
+2021-11-02 15:58:51.632 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\Contact.xml
+2021-11-02 15:58:51.635 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\msdyn_FunctionalLocation.xml
+2021-11-02 15:58:51.635 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\Organization.xml
+2021-11-02 15:58:51.637 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\SLA.xml
+2021-11-02 15:58:51.639 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\SystemUser.xml
+2021-11-02 15:58:51.649 - Info	Processing Component: OrganizationSettings
+2021-11-02 15:58:51.653 - Info	Processing Component: optionsets
+2021-11-02 15:58:51.654 - Info	Processing Component: InteractionCentricDashboards
+2021-11-02 15:58:51.657 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\InteractionCentricDashboards\{15915835-b87c-49ec-9ffc-bfac3ac44ef1}.xml
+2021-11-02 15:58:51.660 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\InteractionCentricDashboards\{70ad8b15-e3f3-4d7d-9e4b-16cb4e51b484}.xml
+2021-11-02 15:58:51.665 - Info	Processing Component: WebResources
+2021-11-02 15:58:51.672 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResource.data.xml
+2021-11-02 15:58:51.675 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_\js\accountScripts.js.data.xml
+2021-11-02 15:58:51.684 - Info	 - new_MyHtmlResource
+2021-11-02 15:58:51.693 - Error	Matched file 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResource' was not found in any mapping. Pack operation is aborted.
+2021-11-02 15:58:51.693 - Verbose	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources/new_MyHtmlResourceD6AC26AD-ED36-EC11-8C64-000D3AF2B8AB
+2021-11-02 15:58:51.782 - Error	Cannot find required file 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResourceD6AC26AD-ED36-EC11-8C64-000D3AF2B8AB'.
+2021-11-02 15:58:51.782 - Error	See log file 'packagerlog.txt' for details.
+2021-11-02 15:58:51.783 - Error	Microsoft.Crm.Tools.SolutionPackager.DiskReaderException: Cannot find required file 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResourceD6AC26AD-ED36-EC11-8C64-000D3AF2B8AB'.
+   at Microsoft.Crm.Tools.SolutionPackager.ComponentProcessorBase.LoadComponentFile(FileBackedComponent fileBackedComponent)
+   at Microsoft.Crm.Tools.SolutionPackager.ComponentProcessorBase.LoadComponentFiles(ComponentCollection components)
+   at Microsoft.Crm.Tools.SolutionPackager.ComponentProcessorBase.ReadFromFiles()
+   at Microsoft.Crm.Tools.SolutionPackager.DiskReader.Load()
+   at Microsoft.Crm.Tools.SolutionPackager.SolutionPackager.Run(IPackageReader reader, IPackageWriter writer)
+   at Microsoft.Crm.Tools.SolutionPackager.SolutionPackager.Run()
+   at Microsoft.Crm.Tools.SolutionPackager.Program.Main(String[] args)
+2021-11-02 15:58:51.786 - Verbose	CrmSvcUtil Runtime = 00:00:01.2099528

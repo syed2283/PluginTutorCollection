@@ -1,0 +1,15 @@
+3:58:51 PM	Reading mapping directives...
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{670d8c53-ed36-ec11-8c64-000d3af2b8ab}.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{a18e6229-0492-4a79-b426-0ce2af724df3}.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{ca978b42-af28-4993-bab0-75e514f1e882}.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{e8f64e54-1ae2-471e-b70f-77da1fe05921}.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{fd9d1ffb-d2db-4f1c-88b6-b96126a2d987}.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\RibbonDiff.xml
+3:58:51 PM	Processing Component: Roles
+3:58:51 PM	Processing Component: Workflows
+3:58:51 PM	Processing Component: FieldSecurityProfiles
+3:58:51 PM	Processing Component: Templates
+3:58:51 PM	Processing Component: EntityMaps
+3:58:51 PM	Processing Component: EntityRelationships
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships.xml
+3:58:51 PM	CrmSvcUtil Runtime = 00:00:01.2099528

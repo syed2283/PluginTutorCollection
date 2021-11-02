@@ -1,0 +1,61 @@
+2:28:26 PM	
+2:28:26 PM	Extracting C:\Users\syed.amanullah\AppData\Local\Temp\tmp7228.zip to C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package
+2:28:26 PM	
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\Organization.xml
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships.xml
+2:28:26 PM	Processing Component: InteractionCentricDashboards
+2:28:26 PM	 - {15915835-b87c-49ec-9ffc-bfac3ac44ef1}
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\InteractionCentricDashboards\{15915835-b87c-49ec-9ffc-bfac3ac44ef1}.xml
+2:28:26 PM	 - {70ad8b15-e3f3-4d7d-9e4b-16cb4e51b484}
+3:58:51 PM	Processing Component: Entities
+3:58:51 PM	 - Account
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\Entity.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\FormXml\main\{b053a39a-041a-4356-acef-ddf00182762b}.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\FormXml\main\{ff49442f-8c60-4877-bdae-8fe51e6f4636}.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Contact\Entity.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Contact\FormXml\main\{894cc46a-b0cb-4ab0-8bf6-200544e46a2d}.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Contact\FormXml\main\{e06af4d1-2812-45c7-a9c2-9fb73fee7bec}.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Contact\RibbonDiff.xml
+3:58:51 PM	 - msdyn_actual
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_actual\Entity.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_actual\RibbonDiff.xml
+3:58:51 PM	 - msdyn_customerasset
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_customerasset\Entity.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_customerasset\RibbonDiff.xml
+3:58:51 PM	 - msdyn_iotdevice
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_iotdevice\Entity.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_iotdevice\RibbonDiff.xml
+3:58:51 PM	 - msdyn_liveconversation
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_liveconversation\Entity.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_liveconversation\RibbonDiff.xml
+3:58:51 PM	 - msdyn_ocliveworkitem
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_ocliveworkitem\Entity.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_ocliveworkitem\RibbonDiff.xml
+3:58:51 PM	 - new_contract
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\Entity.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\FormXml\card\{c6e05e0d-2a73-412a-be9b-ce14241ab0fa}.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\FormXml\main\{7508a1c6-4d46-4534-a7de-e994e361fcac}.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\FormXml\quick\{1c5135d8-edd5-4dc4-a25d-778a87643ff9}.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{10fb10b8-8b85-423f-bb6a-96dc4d12a2e5}.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{4be43b35-f904-4c8d-a007-9639807543be}.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\Account.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\Contact.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\msdyn_FunctionalLocation.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\Organization.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\SLA.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\SystemUser.xml
+3:58:51 PM	Processing Component: OrganizationSettings
+3:58:51 PM	Processing Component: optionsets
+3:58:51 PM	Processing Component: InteractionCentricDashboards
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources/new_MyHtmlResourceD6AC26AD-ED36-EC11-8C64-000D3AF2B8AB
+3:58:51 PM	Cannot find required file 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResourceD6AC26AD-ED36-EC11-8C64-000D3AF2B8AB'.
+3:58:51 PM	See log file 'packagerlog.txt' for details.
+3:58:51 PM	SolutionPackager: Exception thrown: Microsoft.Crm.Tools.SolutionPackager.DiskReaderException: Cannot find required file 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResourceD6AC26AD-ED36-EC11-8C64-000D3AF2B8AB'.
+3:58:51 PM	   at Microsoft.Crm.Tools.SolutionPackager.ComponentProcessorBase.LoadComponentFile(FileBackedComponent fileBackedComponent)
+3:58:51 PM	   at Microsoft.Crm.Tools.SolutionPackager.ComponentProcessorBase.LoadComponentFiles(ComponentCollection components)
+3:58:51 PM	   at Microsoft.Crm.Tools.SolutionPackager.ComponentProcessorBase.ReadFromFiles()
+3:58:51 PM	   at Microsoft.Crm.Tools.SolutionPackager.DiskReader.Load()
+3:58:51 PM	   at Microsoft.Crm.Tools.SolutionPackager.SolutionPackager.Run(IPackageReader reader, IPackageWriter writer)
+3:58:51 PM	   at Microsoft.Crm.Tools.SolutionPackager.SolutionPackager.Run()
+3:58:51 PM	   at Microsoft.Crm.Tools.SolutionPackager.Program.Main(String[] args), returning error code '1'

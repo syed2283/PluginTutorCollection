@@ -5,3 +5,16 @@
 4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\FormXml\main\{ff49442f-8c60-4877-bdae-8fe51e6f4636}.xml
 4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\FormXml\main\{b053a39a-041a-4356-acef-ddf00182762b}.xml
 4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+2:28:26 PM	Skipping localization
+2:28:26 PM	Solution may not repack due to missing mapped file for: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResource
+2:28:26 PM	Skipping 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResource' as it matches a mapping directive
+2:28:26 PM	No change: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Customizations.xml
+2:28:26 PM	Writing: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Solution.xml
+2:28:26 PM	
+2:28:26 PM	Unmanaged Extract complete.
+2:28:26 PM	
+2:28:26 PM	3 warnings encountered
+2:28:26 PM	Map folder 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Plugins\bin\' does not exist.
+2:28:26 PM	Read-only files will be over-written or deleted.
+2:28:26 PM	Solution may not repack due to missing mapped file for: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResource
+2:28:26 PM	CrmSvcUtil Runtime = 00:00:01.3352980

@@ -51,16 +51,16 @@
                     <row>
                       <cell id="{1c5c7220-bd44-a175-8000-b8328282b945}" showlabel="true" colspan="1" auto="false" rowspan="6" ordinalvalue="10006" solutionaction="Added">
                         <labels>
-                          <label description="myhtml" languagecode="1033" />
+                          <label description="My HTML (Edited)" languagecode="1033" />
                         </labels>
                         <control id="WebResource_myhtml" classid="{9FDF5F91-88B1-47f4-AD53-C11EFC01A01D}">
                           <parameters>
                             <Url>new_MyHtmlResource</Url>
                             <PassParameters>false</PassParameters>
+                            <ShowOnMobileClient>false</ShowOnMobileClient>
                             <Security>false</Security>
                             <Scrolling>auto</Scrolling>
                             <Border>true</Border>
-                            <ShowOnMobileClient>false</ShowOnMobileClient>
                             <WebResourceId>{D6AC26AD-ED36-EC11-8C64-000D3AF2B8AB}</WebResourceId>
                           </parameters>
                         </control>
@@ -212,7 +212,7 @@
                 <section name="tab_3_section_2" showlabel="false" showbar="false" locklevel="0" id="{26e829cb-9a5d-a0b5-b062-0a931e082a1e}" IsUserDefined="0" layout="varwidth" columns="1" labelwidth="115" ordinalvalue="0">
                   <rows>
                     <row>
-                      <cell id="{51a0d79a-0bac-4549-9110-3bea43ea431d}" ordinalvalue="10000" solutionaction="Added">
+                      <cell id="{51a0d79a-0bac-4549-9110-3bea43ea431d}" showlabel="false" ordinalvalue="10000" solutionaction="Added">
                         <labels>
                           <label description="" languagecode="1033" />
                         </labels>
@@ -227,7 +227,7 @@
                 <section name="tab_3_section_3" showlabel="false" showbar="false" locklevel="0" id="{329c50b5-c80d-155e-aae5-50ca4db32d1a}" IsUserDefined="0" layout="varwidth" columns="1" labelwidth="115" ordinalvalue="0">
                   <rows>
                     <row>
-                      <cell id="{ccec726a-a9a3-433a-bf27-910b6280400a}" ordinalvalue="10000" solutionaction="Added">
+                      <cell id="{ccec726a-a9a3-433a-bf27-910b6280400a}" showlabel="false" ordinalvalue="10000" solutionaction="Added">
                         <labels>
                           <label description="" languagecode="1033" />
                         </labels>

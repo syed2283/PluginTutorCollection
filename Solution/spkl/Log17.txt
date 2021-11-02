@@ -1,0 +1,5 @@
+2:28:25 PM	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+2:28:25 PM	Map folder 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Plugins\bin\' does not exist.
+2:28:25 PM	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+2:28:25 PM	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+2:28:26 PM	Read-only files will be over-written or deleted.

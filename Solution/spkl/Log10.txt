@@ -1,0 +1,15 @@
+3:58:51 PM	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+3:58:51 PM	Map folder 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\PluginAssemblies\' does not exist.
+3:58:51 PM	Map folder 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Plugins\bin\' does not exist.
+3:58:51 PM	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+3:58:51 PM	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+3:58:51 PM	
+3:58:51 PM	Packing C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package to C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\solution_1_0_0_0.zip
+3:58:51 PM	
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\InteractionCentricDashboards\{15915835-b87c-49ec-9ffc-bfac3ac44ef1}.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\InteractionCentricDashboards\{70ad8b15-e3f3-4d7d-9e4b-16cb4e51b484}.xml
+3:58:51 PM	Processing Component: WebResources
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResource.data.xml
+3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_\js\accountScripts.js.data.xml
+3:58:51 PM	 - new_MyHtmlResource
+3:58:51 PM	Matched file 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResource' was not found in any mapping. Pack operation is aborted.
