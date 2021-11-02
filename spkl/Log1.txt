@@ -1,0 +1,74 @@
+10:58:59 AM	Deploying Plugins
+10:58:59 AM	Searching for plugin config in 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\spkl\..'
+10:58:59 AM	Using Config 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection'
+10:58:59 AM	Checking assembly 'Microsoft.Bcl.AsyncInterfaces.dll' for plugins
+10:58:59 AM	Checking assembly 'Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll' for plugins
+10:58:59 AM	Checking assembly 'PluginTutorCollection.dll' for plugins
+10:58:59 AM	6 plugin(s) found!
+10:58:59 AM	Checking assembly 'MyCustomWorkflows.dll' for plugins
+10:58:59 AM	Processed 1 config(s)
+11:01:08 AM	Deploying Plugins
+11:01:08 AM	Searching for plugin config in 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\spkl\..'
+11:01:08 AM	Using Config 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection'
+11:01:08 AM	Checking assembly 'CrmPluginBase.dll' for plugins
+11:01:08 AM	2 plugin(s) found!
+11:01:08 AM	Checking assembly 'Microsoft.Bcl.AsyncInterfaces.dll' for plugins
+11:01:08 AM	Checking assembly 'Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll' for plugins
+11:01:08 AM	Checking assembly 'Microsoft.Xrm.Client.dll' for plugins
+4:18:03 PM	Deploying Plugins
+4:18:03 PM	Searching for plugin config in 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\spkl\..'
+4:18:03 PM	Using Config 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection'
+4:18:03 PM	Checking assembly 'Microsoft.Bcl.AsyncInterfaces.dll' for plugins
+4:18:03 PM	Checking assembly 'Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll' for plugins
+4:18:03 PM	Checking assembly 'Microsoft.Xrm.Client.dll' for plugins
+4:21:16 PM	Deploying Plugins
+4:21:16 PM	Searching for plugin config in 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\spkl\..'
+4:21:16 PM	Using Config 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection'
+4:21:16 PM	Checking assembly 'Microsoft.Bcl.AsyncInterfaces.dll' for plugins
+4:21:16 PM	Checking assembly 'Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll' for plugins
+4:21:16 PM	Checking assembly 'Microsoft.Xrm.Client.dll' for plugins
+4:21:16 PM	Checking assembly 'PluginTutorCollection.dll' for plugins
+4:21:16 PM	6 plugin(s) found!
+4:21:17 PM	Registering Plugin 'PluginTutorCollection' from 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\bin\Debug\PluginTutorCollection.dll'
+4:21:26 PM	Registering Type 'PluginTutorCollection.ContractDuplicateCheck'
+4:21:28 PM	Registering Step 'DuplicateCheck-contract'
+4:25:56 PM	Deploying Plugins
+4:25:56 PM	Searching for plugin config in 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\spkl\..'
+4:25:56 PM	Using Config 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection'
+4:25:56 PM	Checking assembly 'Microsoft.Bcl.AsyncInterfaces.dll' for plugins
+4:25:56 PM	Checking assembly 'Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll' for plugins
+4:25:56 PM	Checking assembly 'Microsoft.Xrm.Client.dll' for plugins
+4:25:56 PM	Checking assembly 'PluginTutorCollection.dll' for plugins
+4:25:56 PM	6 plugin(s) found!
+4:25:57 PM	Checking for orphaned PluginTypes: 'PluginTutorCollection' 
+4:25:57 PM	Updating Plugin 'PluginTutorCollection' from 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\bin\Debug\PluginTutorCollection.dll'
+4:26:00 PM	Updating Type 'PluginTutorCollection.ContractDuplicateCheck'
+4:26:02 PM	Registering Step 'DuplicateCheck-contract'
+4:26:04 PM	Registering Type 'PluginTutorCollection.DuplicateCheck'
+4:26:05 PM	Registering Step 'DuplicateCheck-contact'
+4:27:52 PM	Deploying Plugins
+4:27:52 PM	Searching for plugin config in 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\spkl\..'
+4:27:53 PM	Using Config 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection'
+4:27:53 PM	Checking assembly 'Microsoft.Bcl.AsyncInterfaces.dll' for plugins
+4:27:53 PM	Checking assembly 'Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll' for plugins
+4:27:53 PM	Checking assembly 'Microsoft.Xrm.Client.dll' for plugins
+4:27:53 PM	Checking assembly 'PluginTutorCollection.dll' for plugins
+4:27:53 PM	5 plugin(s) found!
+4:27:54 PM	Checking for orphaned PluginTypes: 'PluginTutorCollection' 
+4:27:55 PM	Not Found, deleting: PluginTutorCollection.ContractDuplicateCheck
+4:27:55 PM	Deleting step 'DuplicateCheck-contract'
+4:27:57 PM	Deleting PluginType 'PluginTutorCollection.ContractDuplicateCheck'
+4:27:59 PM	Updating Plugin 'PluginTutorCollection' from 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\bin\Debug\PluginTutorCollection.dll'
+4:28:02 PM	Updating Type 'PluginTutorCollection.DuplicateCheck'
+4:28:03 PM	Registering Step 'DuplicateCheck-contact'
+4:30:23 PM	Deploying Plugins
+4:30:23 PM	Searching for plugin config in 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\spkl\..'
+4:30:23 PM	Using Config 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection'
+4:30:23 PM	Checking assembly 'Microsoft.Bcl.AsyncInterfaces.dll' for plugins
+4:30:23 PM	Checking assembly 'Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll' for plugins
+4:30:23 PM	Checking assembly 'Microsoft.Xrm.Client.dll' for plugins
+4:30:23 PM	Checking assembly 'PluginTutorCollection.dll' for plugins
+4:30:23 PM	5 plugin(s) found!
+4:30:24 PM	Registering Plugin 'PluginTutorCollection' from 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\bin\Debug\PluginTutorCollection.dll'
+4:30:25 PM	Registering Type 'PluginTutorCollection.DuplicateCheck'
+4:30:28 PM	Registering Step 'DuplicateCheck-contact'

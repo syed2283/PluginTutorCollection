@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<forms xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <systemform>
+    <formid>{7508a1c6-4d46-4534-a7de-e994e361fcac}</formid>
+    <IntroducedVersion>1.0.0</IntroducedVersion>
+    <FormPresentation>1</FormPresentation>
+    <FormActivationState>1</FormActivationState>
+    <form>
+      <tabs>
+        <tab verticallayout="true" id="{64383a6a-4a5a-47f9-b334-648d80b283b7}" IsUserDefined="1">
+          <labels>
+            <label description="General" languagecode="1033" />
+          </labels>
+          <columns>
+            <column width="100%">
+              <sections>
+                <section showlabel="false" showbar="false" IsUserDefined="0" id="{804ce1ed-e90a-4150-8288-906ac9630d7f}">
+                  <labels>
+                    <label description="General" languagecode="1033" />
+                  </labels>
+                  <rows>
+                    <row>
+                      <cell id="{550c952c-6eae-428f-83b1-4a085b62d2f1}">
+                        <labels>
+                          <label description="Name" languagecode="1033" />
+                        </labels>
+                        <control id="new_name" classid="{4273EDBD-AC1D-40d3-9FB2-095C621B552D}" datafieldname="new_name" />
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{6da323cd-dc13-3507-79aa-028eae58a45a}" showlabel="true" locklevel="0">
+                        <labels>
+                          <label description="Contract Company" languagecode="1033" />
+                        </labels>
+                        <control id="new_contractcompany" classid="{4273EDBD-AC1D-40d3-9FB2-095C621B552D}" datafieldname="new_contractcompany" disabled="false" />
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{66b7a064-0806-598d-3322-2dcc25d5b748}" showlabel="true" locklevel="0">
+                        <labels>
+                          <label description="Company Address" languagecode="1033" />
+                        </labels>
+                        <control id="new_companyaddress" classid="{E0DECE4B-6FC8-4a8f-A065-082708572369}" datafieldname="new_companyaddress" disabled="false" />
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{4192c02b-b9b1-9752-a1e5-77d8091b0459}" showlabel="true" locklevel="0">
+                        <labels>
+                          <label description="Contract Type" languagecode="1033" />
+                        </labels>
+                        <control id="new_contracttype" classid="{3EF39988-22BB-4f0b-BBBE-64B5A3748AEE}" datafieldname="new_contracttype" disabled="false" />
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{e5e82845-977e-d23c-8107-70254d67d178}" showlabel="true" locklevel="0">
+                        <labels>
+                          <label description="Contract First Time" languagecode="1033" />
+                        </labels>
+                        <control id="new_contractfirsttime" classid="{67FAC785-CD58-4f9f-ABB3-4B7DDC6ED5ED}" datafieldname="new_contractfirsttime" disabled="false" />
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{4e4c2864-9814-d06e-2647-dc7048a16988}" showlabel="true" locklevel="0">
+                        <labels>
+                          <label description="Contract Region" languagecode="1033" />
+                        </labels>
+                        <control id="new_contractregion" classid="{4AA28AB7-9C13-4F57-A73D-AD894D048B5F}" datafieldname="new_contractregion" disabled="false" />
+                      </cell>
+                    </row>
+                  </rows>
+                </section>
+              </sections>
+            </column>
+          </columns>
+        </tab>
+      </tabs>
+      <Navigation>
+        <NavBar></NavBar>
+        <NavBarAreas>
+          <NavBarArea Id="Info">
+            <Titles>
+              <Title LCID="1033" Text="Common" />
+            </Titles>
+          </NavBarArea>
+          <NavBarArea Id="Sales">
+            <Titles>
+              <Title LCID="1033" Text="Sales" />
+            </Titles>
+          </NavBarArea>
+          <NavBarArea Id="Service">
+            <Titles>
+              <Title LCID="1033" Text="Service" />
+            </Titles>
+          </NavBarArea>
+          <NavBarArea Id="Marketing">
+            <Titles>
+              <Title LCID="1033" Text="Marketing" />
+            </Titles>
+          </NavBarArea>
+          <NavBarArea Id="ProcessCenter">
+            <Titles>
+              <Title LCID="1033" Text="Process Sessions" />
+            </Titles>
+          </NavBarArea>
+        </NavBarAreas>
+      </Navigation>
+    </form>
+    <IsCustomizable>1</IsCustomizable>
+    <CanBeDeleted>1</CanBeDeleted>
+    <LocalizedNames>
+      <LocalizedName description="Information" languagecode="1033" />
+    </LocalizedNames>
+    <Descriptions>
+      <Description description="A form for this entity." languagecode="1033" />
+    </Descriptions>
+  </systemform>
+</forms>

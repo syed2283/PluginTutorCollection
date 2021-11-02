@@ -1,0 +1,11 @@
+C:\Users\syed.amanullah\source\repos\PluginTutorCollection\MyCustomWorkflows\bin\Debug\MyCustomWorkflows.dll
+C:\Users\syed.amanullah\source\repos\PluginTutorCollection\MyCustomWorkflows\bin\Debug\MyCustomWorkflows.pdb
+C:\Users\syed.amanullah\source\repos\PluginTutorCollection\MyCustomWorkflows\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\syed.amanullah\source\repos\PluginTutorCollection\MyCustomWorkflows\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\syed.amanullah\source\repos\PluginTutorCollection\MyCustomWorkflows\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\syed.amanullah\source\repos\PluginTutorCollection\MyCustomWorkflows\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\syed.amanullah\source\repos\PluginTutorCollection\MyCustomWorkflows\obj\Debug\MyCustomWorkflows.csprojAssemblyReference.cache
+C:\Users\syed.amanullah\source\repos\PluginTutorCollection\MyCustomWorkflows\obj\Debug\MyCustomWorkflows.csproj.CoreCompileInputs.cache
+C:\Users\syed.amanullah\source\repos\PluginTutorCollection\MyCustomWorkflows\obj\Debug\MyCustomWorkflows.csproj.CopyComplete
+C:\Users\syed.amanullah\source\repos\PluginTutorCollection\MyCustomWorkflows\obj\Debug\MyCustomWorkflows.dll
+C:\Users\syed.amanullah\source\repos\PluginTutorCollection\MyCustomWorkflows\obj\Debug\MyCustomWorkflows.pdb

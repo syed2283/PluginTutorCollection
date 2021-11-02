@@ -1,0 +1,42 @@
+12:35:55 PM	Deploying WebResources
+12:35:55 PM	Using Config 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\WebResources'
+12:36:17 PM	Deploying WebResources
+12:36:17 PM	Using Config 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\WebResources'
+12:40:23 PM	Deploying WebResources
+12:40:23 PM	Using Config 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\WebResources'
+12:41:26 PM	Deploying WebResources
+12:41:26 PM	Using Config 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\WebResources'
+12:45:39 PM	Deploying WebResources
+12:45:39 PM	Using Config 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\WebResources'
+1:02:03 PM	Deploying WebResources
+1:02:03 PM	Using Config 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\WebResources'
+1:02:40 PM	Deploying WebResources
+1:02:40 PM	Using Config 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\WebResources'
+1:07:39 PM	Deploying WebResources
+1:07:39 PM	Using Config 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\WebResources'
+1:08:49 PM	Deploying WebResources
+1:08:49 PM	Using Config 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\WebResources'
+1:24:47 PM	Deploying WebResources
+1:24:47 PM	Using Config 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\WebResources'
+1:27:36 PM	Deploying WebResources
+1:27:36 PM	Using Config 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\WebResources'
+1:27:36 PM	Creating Webresource 'js\accountScripts.js' -> 'js/accountScripts.js'
+1:30:03 PM	Deploying WebResources
+1:30:03 PM	Using Config 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\WebResources'
+1:31:11 PM	Deploying WebResources
+1:31:11 PM	Using Config 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\WebResources'
+1:31:11 PM	Creating Webresource 'js\accountScripts.js' -> 'js/accountScripts.js'
+1:33:35 PM	Deploying WebResources
+1:33:35 PM	Using Config 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\WebResources'
+1:34:18 PM	Deploying WebResources
+1:34:18 PM	Using Config 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\WebResources'
+1:34:19 PM	Creating Webresource 'js\accountScripts.js' -> 'js/accountScripts.js'
+1:41:16 PM	Deploying WebResources
+1:41:17 PM	Using Config 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\WebResources'
+1:41:17 PM	Creating Webresource 'js\accountScripts.js' -> 'new_/js/accountScripts.js'
+1:41:20 PM	Adding to solution 'UdemyDynamics365Development'
+1:41:22 PM	Deployed 1 webresource(s)
+1:41:22 PM	Publishing 1 webresources...
+1:41:42 PM	Publish complete.
+1:41:42 PM	Processed 1 section(s)
+1:41:42 PM	Processed 1 config(s)

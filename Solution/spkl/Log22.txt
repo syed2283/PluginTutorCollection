@@ -1,0 +1,10 @@
+4:41:55 PM	Reading mapping directives...
+4:41:55 PM	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+4:41:55 PM	Map folder 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Plugins\bin\' does not exist.
+4:41:55 PM	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+4:41:55 PM	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+4:41:55 PM	Read-only files will be over-written or deleted.
+4:41:55 PM	
+4:41:55 PM	Extracting C:\Users\syed.amanullah\AppData\Local\Temp\tmp31B.zip to C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package
+4:41:55 PM	
+4:41:55 PM	Skipping localization

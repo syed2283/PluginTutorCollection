@@ -1,0 +1,164 @@
+﻿<html>
+<head>
+    <script src="ClientGlobalContext.js.aspx" type="text/javascript"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js "></script>
+    <script type="text/javascript">
+
+        var hostweburl;
+        var appweburl;
+        var allItems;
+        var siteUrl = "https://hussaincrmdemo365.sharepoint.com";
+        //Load the required SharePoint libraries.
+        $(document).ready(function () {
+            //Get the URI decoded URLs.
+            ExecuteOrDelayUntilScriptLoaded(retrieveWebSite, "sp.js");
+        });
+        function retrieveWebSite(siteUrl) {
+            var clientContext = new SP.ClientContext(siteUrl);
+            this.oWebsite = clientContext.get_web();
+
+            clientContext.load(this.oWebsite);
+
+            clientContext.executeQueryAsync(
+                Function.createDelegate(this, this.GetFolders),
+                Function.createDelegate(this, this.onQueryFailed)
+            );
+        }
+
+        function onQuerySucceeded(sender, args) {
+            alert('Title: ' + this.oWebsite.get_title() +
+                ' Description: ' + this.oWebsite.get_description());
+        }
+
+        function onQueryFailed(sender, args) {
+            alert('Request failed. ' + args.get_message() +
+                '\n' + args.get_stackTrace());
+        }
+
+        function GetFolders() {
+            var clientContext = new SP.ClientContext(appweburl);
+            var appCtxSite = new SP.AppContextSite(clientContext, hostweburl);
+            var web = appCtxSite.get_web();
+            var list = web.get_lists().getByTitle('TPSDocument');
+            var query = SP.CamlQuery.createAllItemsQuery();
+            // query.set_folderServerRelativeUrl('/TPSDocuments/TestFolders');
+            allItems = list.getItems(query);
+            clientContext.load(allItems, 'Include(Title, ContentType, File)');
+            clientContext.executeQueryAsync(success, failed);
+        }
+        function success() {
+            alert("success");
+            var fileUrls = "";
+            var Filename = new Array();
+            var i = 0;
+            var ListEnumerator = allItems.getEnumerator();
+            while (ListEnumerator.moveNext()) {
+                var currentItem = ListEnumerator.get_current();
+                var _contentType = currentItem.get_contentType();
+                if (_contentType.get_name() != "Folder") {
+                    var File = currentItem.get_file();
+                    if (File != null) {
+                        fileUrls += File.get_serverRelativeUrl() + '\n';
+                        var url = fileUrls.split('/');
+                        var folder = url[url.length - 2];
+                        if (folder == "TestFolder") {
+                            Filename[i] = File.get_name();
+                            i++;
+                        }
+                    }
+                }
+            }
+            alert(Filename);
+            alert(fileUrls);
+        window.downloadPDF = function downloadPDF() {
+            debugger;
+            var filebyte = base64ToBufferArray(fileCont);
+            downloadFile(fileName, [filebyte]);
+            if (parent.Xrm.Page.getAttribute("evs_fileurl") != null &&
+                parent.Xrm.Page.getAttribute("evs_fileurl").getValue() != null) {
+                DocFileStreem = parent.Xrm.Page.getAttribute("evs_fileurl").getValue();
+
+                var file = DocFileStreem;
+                // dlnk.href = file;
+                // dlnk.click();
+                window.open(file, "_self");
+                alert('File Downloaded Sucessfully');
+            }
+            else {
+                alert('Stream should not be null');
+            }
+        }
+        function callPowerAutomateFlow(formContext) {
+            id = formContext.data.entity.getId().replace("{", "").replace("}", "");
+            var account = '{"accountid": "' + id + '"' + '}';
+            var sharepointUrl = "https://hussaincrmdemo365.sharepoint.com/sites/CRMTest/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCRMTest%2FShared%20Documents%2FCompetitor%20Win%20Loss%2Epdf&parent=%2Fsites%2FCRMTest%2FShared%20Documents&p=true&originalPath=aHR0cHM6Ly9odXNzYWluY3JtZGVtbzM2NS5zaGFyZXBvaW50LmNvbS86Yjovcy9DUk1UZXN0L0VSUkw1dE5xQ3MxRW44M21OUjlnZXhVQjRVWmxvb0p2MFhqdWFCWlhzdGtKVHc_cnRpbWU9cFNxbUtacVQyVWchttps://prod-04.centralindia.logic.azure.com:443/workflows/xxxxxxxxxxxxxxxxxxxxxxxxxx/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=xxxxxxxxxxxx";
+
+            var req = new XMLHttpRequest();
+            req.open("POST", sharepointUrl, true);
+            req.setRequestHeader("Accept", "application/json");
+            req.setRequestHeader("Content-Type", "application/json; charset=utf-8");
+            req.onreadystatechange = function () {
+                if (this.readyState === 4) {
+                    req.onreadystatechange = null;
+                    if (this.status === 200) {
+                        var result = JSON.parse(this.response);
+                        var fileName = result.Name;
+                        var fileCont = result.ContentBytes;
+                        var filebyte = base64ToBufferArray(fileCont);
+                        downloadFile(fileName, [filebyte]);
+                    } else {
+                        Xrm.Utility.alertDialog(this.responseText);
+                    }
+                }
+            };
+            req.send(account);
+        }
+
+        function base64ToBufferArray(base64content) {
+            var binaryString = window.atob(base64content);
+            var binaryLen = binaryString.length;
+            var bytes = new Uint8Array(binaryLen);
+            for (var i = 0; i < binaryLen; {
+                var ascii = binaryString.charCodeAt(i);
+                bytes[i] = ascii;
+            }
+                        return bytes;
+        }
+
+        function downloadFile(name, data) {
+            var blob = new Blob(data, { type: "octet/stream" }),
+                url = window.URL.createObjectURL(blob);
+            if (window.navigator && window.navigator.msSaveOrOpenBlob) {
+                window.navigator.msSaveOrOpenBlob(blob, name);
+            } else {
+                const url = window.URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                document.body.appendChild(a);
+                a.href = url;
+                a.download = name;
+                a.click();
+                window.URL.revokeObjectURL(url);
+                document.body.removeChild(a);
+            }
+        }
+
+    </script>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta charset="utf-8">
+    <meta>
+    <meta>
+</head>
+<body onfocusout="parent.setEmailRange();" style="overflow-wrap: break-word;">
+    <div style="padding: 8px; border: 1px solid black; border-image: none;">
+        <a id="dwnldLnk" style="display: none;" download="sample.doc"></a>
+        <a title="sample" onclick="downloadPDF();" href="#">View Document</a><table id="myTableData">
+        </table>
+
+    </div>
+</body>
+</html>

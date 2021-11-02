@@ -1,0 +1,28 @@
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\RibbonDiff.xml
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\Entity.xml
+4:41:55 PM	 - Contact
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Contact\FormXml\main\{894cc46a-b0cb-4ab0-8bf6-200544e46a2d}.xml
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Contact\FormXml\main\{e06af4d1-2812-45c7-a9c2-9fb73fee7bec}.xml
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Contact\RibbonDiff.xml
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Contact\Entity.xml
+4:41:55 PM	 - msdyn_actual
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_actual\RibbonDiff.xml
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_actual\Entity.xml
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{e8f64e54-1ae2-471e-b70f-77da1fe05921}.xml
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{fd9d1ffb-d2db-4f1c-88b6-b96126a2d987}.xml
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\RibbonDiff.xml
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\Entity.xml
+4:41:55 PM	Processing Component: EntityRelationships
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\SystemUser.xml
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\SLA.xml
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\Account.xml
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\Contact.xml
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\msdyn_FunctionalLocation.xml
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\Organization.xml
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships.xml
+4:41:55 PM	Processing Component: InteractionCentricDashboards
+4:41:55 PM	 - {15915835-b87c-49ec-9ffc-bfac3ac44ef1}
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\InteractionCentricDashboards\{15915835-b87c-49ec-9ffc-bfac3ac44ef1}.xml
+4:41:55 PM	 - {70ad8b15-e3f3-4d7d-9e4b-16cb4e51b484}
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\InteractionCentricDashboards\{70ad8b15-e3f3-4d7d-9e4b-16cb4e51b484}.xml
+4:41:55 PM	Processing Component: WebResources

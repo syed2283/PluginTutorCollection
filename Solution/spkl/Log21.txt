@@ -1,0 +1,7 @@
+4:41:55 PM	Processing Component: Entities
+4:41:55 PM	 - Account
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\Formulas/account-opendeals.xaml
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\Formulas/account-openrevenue.xaml
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\FormXml\main\{ff49442f-8c60-4877-bdae-8fe51e6f4636}.xml
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\FormXml\main\{b053a39a-041a-4356-acef-ddf00182762b}.xml
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml

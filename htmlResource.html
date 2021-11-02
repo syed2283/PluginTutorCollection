@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script type="text/javascript" src="ClientGlobalContext.js.aspx"></script>
+    <script src="new_AccountScript"></script>
+    <script src="new_/Scripts/somescript"></script>
+    <script>
+        function ButtonClick() {
+            //Accessing from elements from HTML web resource
+            //We have to follwo old code "Xrm.Page" not new code "formContext"
+
+            //var accountName = parent.Xrm.Page.getAttribute("name").getValue();
+            // define the data to create new account
+            var contact =
+            {
+                "firstname": "Sample Contact",
+                "lastname": "Web API",
+
+            }
+
+            //"create account record"
+            /* Xrm.WebApi.createRecord("contact", contact).then(
+                 function success(result) {
+                    console.log("Contact created with ID: " + result.id);
+                     //document.getElementById("textmsg").innerHTML = result.id;
+                     // perform operations on record creation
+                 },
+                 function (error) {
+                     document.getElementById("textmsg").innerHTML = error.message;
+                     console.log(error.message);
+                     // handle error conditions
+                 }
+             );*/
+            Xrm.WebApi.retrieveMultipleRecords("contact", "$select=emailaddress1", 10).then(
+                function success(result) {
+                    for (var i = 0; i < result.entities.length; i++) {
+
+                        console.log(result.entities[i]);
+                    }
+                    //document.getElementById("textmsg").innerHTML = result.id;
+                    // perform operations on record creation
+                },
+                function (error) {
+                    document.getElementById("textmsg").innerHTML = error.message;
+                    console.log(error.message);
+                    // handle error conditions
+                }
+                //In HTML web resource, you can use DOM
+                //In Javascript web resource,DOM is not supported
+                // document.getElementById("button").innerHTML = accountName;
+            );
+        }
+    </script>
+</head>
+<body>
+    <input type="button" name="button" onclick="ButtonClick()" value="Click Me" />
+    <p id="textmsg"></p>
+</body>
+</html>

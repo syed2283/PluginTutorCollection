@@ -1,0 +1,6 @@
+C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\bin\Debug\Solution.dll
+C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\bin\Debug\Solution.pdb
+C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\obj\Debug\Solution.csprojAssemblyReference.cache
+C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\obj\Debug\Solution.csproj.CoreCompileInputs.cache
+C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\obj\Debug\Solution.dll
+C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\obj\Debug\Solution.pdb

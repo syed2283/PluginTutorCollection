@@ -1,0 +1,59 @@
+﻿<html>
+<head>
+    <script src="ClientGlobalContext.js.aspx" type="text/javascript"></script>
+    <script type="text/javascript">
+
+
+        window.downloadPDF = function downloadPDF() {
+            debugger;
+            var dlnk = document.getElementById('dwnldLnk');
+            var DocFileStreem;
+            if (parent.Xrm.Page.getAttribute("evs_documentfile") != null && parent.Xrm.Page.getAttribute("evs_documentfile").getValue() != null) {
+                DocFileStreem = parent.Xrm.Page.getAttribute("evs_documentfile").getValue();
+                //var pdf = 'data:application/octet-stream;base64,'+DocFileStreem;
+                var streemtype = DocFileStreem.split(',');
+                if (streemtype[0] == "data:docx;base64") {
+                    dlnk.attributes[2] = "sample.doc";
+                    document.getElementById("dwnldLnk").download = "sample.doc";
+                }
+                else if (streemtype[0] == "data:pdf;base64") {
+                    dlnk.attributes[2] = "sample.pdf";
+                    document.getElementById("dwnldLnk").download = "sample.pdf";
+                }
+                else if (streemtype[0] == "data:xlsx;base64") {
+                    dlnk.attributes[2] = "sample.xlsx";
+                    document.getElementById("dwnldLnk").download = "sample.xlsx";
+                }
+                else if (streemtype[0] == "data:pptx;base64") {
+                    dlnk.attributes[2] = "sample.ppt";
+                    document.getElementById("dwnldLnk").download = "sample.ppt";
+                }
+                var file = DocFileStreem;
+                dlnk.href = file;
+                dlnk.click();
+                alert('File Downloaded Sucessfully');
+            }
+            else {
+                alert('Stream should not be null');
+            }
+        }
+
+    </script>
+        <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta>
+    <meta charset="utf-8">
+    <meta>
+    <meta>
+</head>
+<body onfocusout="parent.setEmailRange();" style="overflow-wrap: break-word;">
+    <div style="padding: 8px; border: 1px solid black; border-image: none;">
+        <a id="dwnldLnk" style="display: none;" download="sample.doc"></a><a title="sample" onclick="downloadPDF();" href="#">View Document</a><table id="myTableData">
+        </table>
+
+    </div>
+</body>
+</html>

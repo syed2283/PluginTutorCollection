@@ -1,0 +1,17 @@
+4:41:55 PM	 - new_/js/accountScripts.js
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_\js\accountScripts.js.data.xml
+4:41:55 PM	Skipping 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_\js\accountScripts.js' as it matches a mapping directive
+4:41:55 PM	 - new_MyHtmlResource
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResource.data.xml
+4:41:55 PM	Solution may not repack due to missing mapped file for: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResource
+4:41:55 PM	Skipping 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResource' as it matches a mapping directive
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Customizations.xml
+4:41:55 PM	Creating: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Solution.xml
+4:41:55 PM	
+4:41:55 PM	Unmanaged Extract complete.
+4:41:55 PM	
+4:41:55 PM	3 warnings encountered
+4:41:55 PM	Map folder 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Plugins\bin\' does not exist.
+4:41:55 PM	Read-only files will be over-written or deleted.
+4:41:55 PM	Solution may not repack due to missing mapped file for: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResource
+4:41:55 PM	CrmSvcUtil Runtime = 00:00:00.5412670
