@@ -59,3 +59,40 @@
 3:58:51 PM	   at Microsoft.Crm.Tools.SolutionPackager.SolutionPackager.Run(IPackageReader reader, IPackageWriter writer)
 3:58:51 PM	   at Microsoft.Crm.Tools.SolutionPackager.SolutionPackager.Run()
 3:58:51 PM	   at Microsoft.Crm.Tools.SolutionPackager.Program.Main(String[] args), returning error code '1'
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\Entity.xml
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\FormXml\main\{b053a39a-041a-4356-acef-ddf00182762b}.xml
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\FormXml\main\{ff49442f-8c60-4877-bdae-8fe51e6f4636}.xml
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Account\RibbonDiff.xml
+4:29:06 PM	 - Contact
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Contact\Entity.xml
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{ca978b42-af28-4993-bab0-75e514f1e882}.xml
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{e8f64e54-1ae2-471e-b70f-77da1fe05921}.xml
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{fd9d1ffb-d2db-4f1c-88b6-b96126a2d987}.xml
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\RibbonDiff.xml
+4:29:06 PM	Processing Component: Roles
+4:29:06 PM	Processing Component: Workflows
+4:29:06 PM	Processing Component: FieldSecurityProfiles
+4:29:06 PM	Processing Component: Templates
+4:29:06 PM	Processing Component: EntityMaps
+4:29:06 PM	Processing Component: EntityRelationships
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships.xml
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\Account.xml
+4:29:07 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\InteractionCentricDashboards\{70ad8b15-e3f3-4d7d-9e4b-16cb4e51b484}.xml
+4:29:07 PM	Processing Component: WebResources
+4:29:07 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResource.data.xml
+4:29:07 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_\js\accountScripts.js.data.xml
+4:29:07 PM	 - new_MyHtmlResource
+4:29:07 PM	Matched file 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResource' was not found in any mapping. Pack operation is aborted.
+4:29:07 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources/new_MyHtmlResourceD6AC26AD-ED36-EC11-8C64-000D3AF2B8AB
+4:29:07 PM	Cannot find required file 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResourceD6AC26AD-ED36-EC11-8C64-000D3AF2B8AB'.
+4:29:07 PM	See log file 'packagerlog.txt' for details.
+4:29:07 PM	SolutionPackager: Exception thrown: Microsoft.Crm.Tools.SolutionPackager.DiskReaderException: Cannot find required file 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResourceD6AC26AD-ED36-EC11-8C64-000D3AF2B8AB'.
+4:29:07 PM	   at Microsoft.Crm.Tools.SolutionPackager.ComponentProcessorBase.LoadComponentFile(FileBackedComponent fileBackedComponent)
+4:29:07 PM	   at Microsoft.Crm.Tools.SolutionPackager.ComponentProcessorBase.LoadComponentFiles(ComponentCollection components)
+4:29:07 PM	   at Microsoft.Crm.Tools.SolutionPackager.ComponentProcessorBase.ReadFromFiles()
+4:29:07 PM	   at Microsoft.Crm.Tools.SolutionPackager.DiskReader.Load()
+4:29:07 PM	   at Microsoft.Crm.Tools.SolutionPackager.SolutionPackager.Run(IPackageReader reader, IPackageWriter writer)
+4:29:07 PM	   at Microsoft.Crm.Tools.SolutionPackager.SolutionPackager.Run()
+4:29:07 PM	   at Microsoft.Crm.Tools.SolutionPackager.Program.Main(String[] args), returning error code '1'
+4:29:07 PM	CrmSvcUtil Runtime = 00:00:01.5360456

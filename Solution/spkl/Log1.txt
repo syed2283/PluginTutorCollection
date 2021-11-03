@@ -18,3 +18,9 @@
 3:58:50 PM	Target C:\Users\syed.amanullah\source\repos\PluginTutorCollection\packages\spkl.1.0.640\tools
 3:58:50 PM	Map xml created at 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\packager_map.xml'
 3:58:50 PM	Running C:\Users\syed.amanullah\source\repos\PluginTutorCollection\packages\spkl.1.0.640\tools\..\..\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\SolutionPackager.exe /action:Pack /zipfile:"C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\solution_1_0_0_0.zip" /folder:"C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package" /packagetype:unmanaged /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+4:29:04 PM	Packing & Import Solution
+4:29:04 PM	Searching for packager config in 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\spkl\..'
+4:29:04 PM	Using Config 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution'
+4:29:05 PM	Target C:\Users\syed.amanullah\source\repos\PluginTutorCollection\packages\spkl.1.0.640\tools
+4:29:05 PM	Map xml created at 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\packager_map.xml'
+4:29:05 PM	Running C:\Users\syed.amanullah\source\repos\PluginTutorCollection\packages\spkl.1.0.640\tools\..\..\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\SolutionPackager.exe /action:Pack /zipfile:"C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\solution_1_0_0_0.zip" /folder:"C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package" /packagetype:unmanaged /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml

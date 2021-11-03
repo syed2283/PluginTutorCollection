@@ -13,3 +13,6 @@
 3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_\js\accountScripts.js.data.xml
 3:58:51 PM	 - new_MyHtmlResource
 3:58:51 PM	Matched file 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\WebResources\new_MyHtmlResource' was not found in any mapping. Pack operation is aborted.
+4:29:06 PM	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+4:29:06 PM	Processing Component: Entities
+4:29:06 PM	 - Account

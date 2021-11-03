@@ -13,3 +13,37 @@
 3:58:51 PM	Processing Component: EntityRelationships
 3:58:51 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships.xml
 3:58:51 PM	CrmSvcUtil Runtime = 00:00:01.2099528
+4:29:06 PM	Reading mapping directives...
+4:29:06 PM	Map folder 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\PluginAssemblies\' does not exist.
+4:29:06 PM	Map folder 'C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Plugins\bin\' does not exist.
+4:29:06 PM	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+4:29:06 PM	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+4:29:06 PM	
+4:29:06 PM	Packing C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package to C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\solution_1_0_0_0.zip
+4:29:06 PM	
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Contact\FormXml\main\{894cc46a-b0cb-4ab0-8bf6-200544e46a2d}.xml
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Contact\FormXml\main\{e06af4d1-2812-45c7-a9c2-9fb73fee7bec}.xml
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\Contact\RibbonDiff.xml
+4:29:06 PM	 - msdyn_actual
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_actual\Entity.xml
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_actual\RibbonDiff.xml
+4:29:06 PM	 - msdyn_customerasset
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_customerasset\Entity.xml
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_customerasset\RibbonDiff.xml
+4:29:06 PM	 - msdyn_iotdevice
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\msdyn_iotdevice\Entity.xml
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\FormXml\main\{7508a1c6-4d46-4534-a7de-e994e361fcac}.xml
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\FormXml\quick\{1c5135d8-edd5-4dc4-a25d-778a87643ff9}.xml
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{10fb10b8-8b85-423f-bb6a-96dc4d12a2e5}.xml
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{4be43b35-f904-4c8d-a007-9639807543be}.xml
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{670d8c53-ed36-ec11-8c64-000d3af2b8ab}.xml
+4:29:06 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Entities\new_contract\SavedQueries\{a18e6229-0492-4a79-b426-0ce2af724df3}.xml
+4:29:07 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\Contact.xml
+4:29:07 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\msdyn_FunctionalLocation.xml
+4:29:07 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\Organization.xml
+4:29:07 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\SLA.xml
+4:29:07 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\Other\Relationships\SystemUser.xml
+4:29:07 PM	Processing Component: OrganizationSettings
+4:29:07 PM	Processing Component: optionsets
+4:29:07 PM	Processing Component: InteractionCentricDashboards
+4:29:07 PM	Reading: C:\Users\syed.amanullah\source\repos\PluginTutorCollection\Solution\package\InteractionCentricDashboards\{15915835-b87c-49ec-9ffc-bfac3ac44ef1}.xml
